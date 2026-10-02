@@ -30,8 +30,6 @@
 ### :man_technologist: About Me :
 - :telescope: I’m working as a Software Engineer Intern at BoostOwl
 
-- :seedling: Exploring Companies to get Hired.
-
 - :zap: In my free time, I watch Youtube or some fiction ,or just slacking off and playing Clash Royale. (I used to solve problems on LeetCode too 😭)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-madhav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-kwatra)
